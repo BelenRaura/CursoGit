@@ -1,0 +1,30 @@
+
+
+A -> Added
+M -> Modified
+
+.txt
+.py
+.pdf
+
+Ya hasta aqui llega
+
+
+Local Changes -> Solo nosotros podemos visualizarlos, en nuestra Pc
+Web -> Ya esta disponibles para todos
+
+
+Master/main
+Master -> Default
+
+git branch -M main
+
+Alexis -> Login /1      -> Main  /linea 1 1722966651
+Ronny -> Facturacion /2 -> Main  Con linea 1 1722966651
+Vid -> visual /3        -> Main  Con linea 1 1722966651
+
+Pull request 
+Conflicto 
+
+Cambio anterior / Cambio actual
+git pull 

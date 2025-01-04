@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 def suma(a, b):
-    return 0
+    return a+b
 
 def resta(a, b):
     return 0
